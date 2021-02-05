@@ -6,6 +6,10 @@ Gonna be updated for learning Machine Learning and Deep Learning by Pytorch.
 
 ## Projects
 
+- Colab
+
+Most beginners have difficulties to start Machine Learning (ML) and Deep Learning (DL) because of hardware and software limits. In this project, I will introduce Colab to begin your first project here. Let's learn how do 'coding' in Colab and language 'Python' little.
+
 - MNIST
 
 The most simple toy project for learning ML and DL.
